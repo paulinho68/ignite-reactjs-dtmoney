@@ -1,5 +1,5 @@
-import logo from '../../assets/dt_money.svg'
-import * as Styles from './styles'
+import logo from '../../assets/dt_money.svg';
+import * as Styles from './styles';
 
 export function Header() {
     return (
